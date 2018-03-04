@@ -9,5 +9,10 @@ Note: You may hard code these statistics in a global or in your main.
 Bonus (+5 points): Find an actual data file that you ingest with your program using functions like fopen from chapter7.
 
 Compile Steps:
-
+`make`  
 Output:
+```
+./trafficanalysis Traffic_Volume_Counts__2012-2013_.csv 
+17:00 is the busiest hour.
+Average traffic of HUGUENOT AVE @ 15:00 is 388.
+```
