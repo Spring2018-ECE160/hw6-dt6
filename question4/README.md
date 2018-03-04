@@ -23,7 +23,8 @@ Enter c:1
 (3, 1)
 (4, 1)
 (5, 1)
-
+```
+```
 ./question4 
 Enter a:1
 Enter b:1
@@ -39,7 +40,8 @@ Enter c:1
 (3, 13)
 (4, 21)
 (5, 31)
-
+```
+```
 ./question4
 Enter a:-1
 Enter b:2
