@@ -15,11 +15,13 @@ Output:
 ./question1 7
 MIN: 7
 MAX: 7
-
+```
+```
 ./question1 1 2 3 4 5 6
 MIN: 1
 MAX: 6
-
+```
+```
 ./question1 -123 22 13 2
 MIN: -123
 MAX: 22
